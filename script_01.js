@@ -16,3 +16,4 @@ output(getSentence(["Ich","bin","Max"],"S"));
 output(getSentence(["Bist","du","Max"],"Q"));
 output(getSentence(["Ich","bin"],"E"));
 output(getSentence(["Ich","hätt","gern","die","Platt","von","dene","zwei","diwodaso","Spass","mache,"," habbe","Sie","die"],"Q"));
+  
